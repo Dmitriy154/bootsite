@@ -1,0 +1,18 @@
+let f = [
+    {name: "апельсин", age: "1", price: "100"},
+    {name: "кокос", age: "2", price: "100"},
+    {name: "банан", age: "3", price: "100"},
+    {name: "ананас", age: "4", price: "100"},
+    {name: "яблоко", age: "5", price: "100"},
+    {name: "груша", age: "6", price: "100"},
+    {name: "киви", age: "7", price: "100"},
+    {name: "орех", age: "8", price: "100"},
+    {name: "гречка", age: "9", price: "100"},
+    {name: "чери", age: "10", price: "100"},
+    {name: "виноград", age: "11", price: "100"},
+    {name: "дыня", age: "12", price: "100"},
+    {name: "арбуз", age: "13", price: "100"},
+    {name: "картофель", age: "14", price: "100"},
+    {name: "свекла", age: "15", price: "100"},
+    {name: "кукуруза", age: "16", price: "100"},
+]
